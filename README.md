@@ -1,3 +1,5 @@
-# js-xbk1ap
+source "https://rubygems.org"
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-xbk1ap)
+gem "jekyll", "~> 4.0" # Ensure you are using a supported version of Jekyll
+gem "just-the-docs", "~> 0.4" # Ensure you are using the correct version of Just the Docs theme
+gem "github-pages", group: :jekyll_plugins
